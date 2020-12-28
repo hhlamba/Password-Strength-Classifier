@@ -1,7 +1,7 @@
 # Password-Strength-Classifier
 
 For every organization, security is the primary concern and to ensure security they must ensure there is no way an unauthorized personnel or entity can access their system. Each employee working in that organization is responsible to ensure safety. An outside entity obtaining the password of an employee is a nightmare for any organization.
-In this web-app I have provided the freedom of creating, tuning and predicting usign your own optimized model. The final prediction is established by majority voting (polls).
+<br><br>In this web-app I have provided the freedom of creating, tuning and predicting usign your own optimized model. The final prediction is established by majority voting (polls).
 
 
 <p align ="center">
