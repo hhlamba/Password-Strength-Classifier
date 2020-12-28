@@ -1,5 +1,8 @@
 # Password-Strength-Classifier
 
+For every organization, security is the primary concern and to ensure security they must ensure there is no way an unauthorized personnel or entity can access their system. Each employee working in that organization is responsible to ensure safety. An outside entity obtaining the password of an employee is a nightmare for any organization.
+
+
 <p align ="center">
   <a href="https://www.kaggle.com/bhavikbb/password-strength-classifier-dat
 aset" target="_blank">Click here to download the original Datasource</a>
